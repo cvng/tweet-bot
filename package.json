@@ -24,5 +24,8 @@
   "homepage": "https://github.com/cvng/tweet-bot",
   "dependencies": {
     "oauth": "^0.9.12"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
   }
 }
