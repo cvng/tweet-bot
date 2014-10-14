@@ -1,0 +1,28 @@
+{
+  "name": "tweet-bot",
+  "version": "1.0.0",
+  "description": "Tweet bot",
+  "main": "tweet-bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cvng/tweet-bot.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "tweet",
+    "bot"
+  ],
+  "author": "cvng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvng/tweet-bot/issues"
+  },
+  "homepage": "https://github.com/cvng/tweet-bot",
+  "dependencies": {
+    "oauth": "^0.9.12"
+  }
+}

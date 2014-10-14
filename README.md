@@ -1,4 +1,4 @@
 tweet-bot
 =========
 
-Angular.js Twitter bot
+Node.js Twitter bot
