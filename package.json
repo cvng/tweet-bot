@@ -4,7 +4,7 @@
   "description": "Tweet bot",
   "main": "tweet-bot.js",
   "scripts": {
-    "test": "test"
+    "test": "./node_modules/.bin/jasmine-node test/ --autotest --watch . --color --verbose --growl"
   },
   "repository": {
     "type": "git",
