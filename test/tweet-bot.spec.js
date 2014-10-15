@@ -1,6 +1,6 @@
 /* tweet-bot.spec.js */
 
-var tweetBot = require('../tweet-bot');
+var tweetBot = require('../lib/tweet-bot');
 
 describe("tweetBot", function() {
 

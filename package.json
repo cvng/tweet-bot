@@ -2,7 +2,7 @@
   "name": "tweet-bot",
   "version": "1.0.0",
   "description": "Tweet bot",
-  "main": "tweet-bot.js",
+  "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/jasmine-node test/ --autotest --watch . --color --verbose --growl"
   },
