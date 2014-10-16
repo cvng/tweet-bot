@@ -14,7 +14,8 @@ For now, the bot can read from a JSON file and send a random tweet.
 ## usage
 
 - Run `npm install`
-- Write a bunch of text in `to_tweet.json` and let it do tha work !
+- Write a bunch of text in `to_tweet.json`
+- Run `node index.js` and let it do tha work !
 
 ## run test
 
@@ -22,6 +23,4 @@ For now, the bot can read from a JSON file and send a random tweet.
 
 ## to do
 
-- Make bot runtime (bot should never stop)
-- Set bot timer (between each tweet)
-- read from mongoDB ?
+- read from mongoDB ? (maybe one day)
