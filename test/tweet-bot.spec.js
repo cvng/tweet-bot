@@ -16,22 +16,22 @@ describe('tweetBot', function() {
     });
 
     it('should have OAuth credentials', function() {
-        expect(tweetBot.options).not.toBeUndefined();
+        expect(tweetBot.config).not.toBeUndefined();
     });
 
     it('should have consumer KEY', function() {
-        expect(tweetBot.options.CONSUMER_KEY).not.toBeUndefined();
+        expect(tweetBot.config.CONSUMER_KEY).not.toBeUndefined();
     });
 
     it('should have consumer SECRET', function() {
-        expect(tweetBot.options.CONSUMER_SECRET).not.toBeUndefined();
+        expect(tweetBot.config.CONSUMER_SECRET).not.toBeUndefined();
     });
 
     it('should have access TOKEN', function() {
-        expect(tweetBot.options.ACCESS_TOKEN).not.toBeUndefined();
+        expect(tweetBot.config.ACCESS_TOKEN).not.toBeUndefined();
     });
 
     it('should have access TOKEN SECRET', function() {
-        expect(tweetBot.options.ACCESS_TOKEN_SECRET).not.toBeUndefined();
+        expect(tweetBot.config.ACCESS_TOKEN_SECRET).not.toBeUndefined();
     });
 });
