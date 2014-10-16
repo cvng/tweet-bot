@@ -13,7 +13,12 @@ For now, the bot can read from a JSON file and send a random tweet.
 
 ## usage
 
+- Run `npm install`
 - Write a bunch of text in `to_tweet.json` and let it do tha work !
+
+## run test
+
+- Simply as `npm test`
 
 ## to do
 
