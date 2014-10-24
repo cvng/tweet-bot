@@ -8,4 +8,4 @@ var toSearch = ['#node.js', '#angularjs', '#html5', '#css3']; // Search on Twitt
 var options = { tweetInterval: 2000, lang: 'en' };
 var tweetBot = new TweetBot(config, options);
 
-tweetBot.search(toSearch, 10000);
+tweetBot.search(toSearch, 15000);
