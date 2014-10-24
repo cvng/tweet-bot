@@ -1,20 +1,13 @@
 {
     "tweets": [
-        { "text": "Un tweet de test @twitter #test" },
-        { "text": "Un autre tweet de test @twitter #test" },
-        { "text": "Ceci n'est pas un tweet @twitter #test" },
-        { "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices enim ultrices efficitur erat tincidunt, varius odio @twitter #test" },
-        { "text": "Suspendisse potenti @twitter #test" },
-        { "text": "Proin non odio sed justo malesuada lobortis @twitter #test" },
-        { "text": "Pellentesque congue at justo in fermentum @twitter #test" },
-        { "text": "Curabitur ultrices nisi non risus congue, vel mattis mauris viverra @twitter #test" },
-        { "text": "Curabitur porta ullamcorper massa, id laoreet erat fermentum quis @twitter #test" },
-        { "text": "Vestibulum pharetra maximus porttitor @twitter #test" },
-        { "text": "Etiam feugiat bibendum congue @twitter #test" },
-        { "text": "Nullam at venenatis urna @twitter #test" },
-        { "text": "Etiam tincidunt risus ac convallis eleifend @twitter #test" },
-        { "text": "Mauris sed sapien quam @twitter #test" },
-        { "text": "Vestibulum lorem purus, mollis quis neque ut, cursus euismod lorem @twitter #test" },
-        { "text": "Fusce egestas magna nec maximus mattis @twitter #test "}
+        {
+            "text": "Un tweet de test @twitter #test"
+        },
+        {
+            "text": "Un autre tweet de test @twitter #test"
+        },
+        {
+            "text": "Ceci n'est pas un tweet @twitter #test"
+        }
     ]
 }
