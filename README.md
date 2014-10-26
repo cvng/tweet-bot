@@ -2,9 +2,9 @@
 
 Node.js Twitter bot
 
-## WIP
+## Work In Progress
 
-> For now, the bot read from a JSON file, send a random tweet and save it as **posted**.
+> Now, the bot track keywords on Twitter Stream API, and just send it back.
 
 ## Configuration
 
@@ -16,8 +16,7 @@ Node.js Twitter bot
 > Warning: You have to modify your app permissions to _Read and write_
 
 - Run `npm install`
-- Write a bunch of tweets in `to_tweet.json`
-- Run `node index.js` and just be lazy :)
+- Run `node runner.js` and just be lazy :)
 
 ## Test
 
@@ -25,7 +24,7 @@ Node.js Twitter bot
 
 ## TODO
 
-- Read from mongoDB ? (maybe one day)
+- 420 status on multiple keywords
 
 ## Contribution
 
