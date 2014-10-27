@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/cvng/tweet-bot",
   "dependencies": {
-    "oauth": "https://github.com/cvng/node-oauth.git"
+    "oauth": "git://github.com/cvng/node-oauth.git"
   },
   "devDependencies": {
     "jasmine-node": "^1.14.5"
