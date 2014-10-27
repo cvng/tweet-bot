@@ -22,10 +22,6 @@ Node.js Twitter bot
 
 - Simply as `npm test`
 
-## TODO
-
-- 420 status on multiple keywords
-
 ## Contribution
 
 - Open a ticket and let's work together !
