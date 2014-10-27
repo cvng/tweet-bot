@@ -4,7 +4,7 @@ Node.js Twitter bot
 
 ## Work In Progress
 
-> Now, the bot track keywords on Twitter Stream API, and just send it back.
+> Track keywords on Twitter Stream API, and send tweets back as they come.
 
 ## Configuration
 
